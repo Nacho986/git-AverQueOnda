@@ -6,5 +6,6 @@ using namespace std;
 
 int main(int argc, char** argv) {
 	cout << "la concha de tu madre allboys";
+	// Putoelquelee.
 	return 0;
 }
